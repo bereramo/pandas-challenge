@@ -1,0 +1,6 @@
+Comparing the highest and lowesrt performing school against each other it does 
+not appear that the amount spent per student has a positive effect on grades. With Griffin 
+spending less money per student, they are in the top 5 schools in overall performance.
+The data analysis proves that smalller schools are more beneficial to the students 
+for the schools with the greastest amount of students such as Bailey and Rodriguez High schools
+have lower percent of overall passing of math and reading.
